@@ -160,6 +160,7 @@ body {
  text-align:center;
  padding:40px 0;
  border:2px solid #3b7391;
+ border-radius:10px;
 }
 
 .All-cards h2 {
@@ -183,6 +184,7 @@ body {
  text-align:center;
  padding:40px 0;
  border:1px solid #fff;
+ border-radius:10px;
 }
 
 .All-cards-white h2 {
@@ -206,7 +208,7 @@ body {
 }
 
 #projects p{
-  margin:50px;
+  margin:40px;
 }
 
 #projects p a {
@@ -220,10 +222,90 @@ body {
 #contact-icons div{
   max-width:100%;
   text-align:center;
+  padding:15px 0;
+  margin-top:10px;
 }
+
+#contact-icons div h3{
+  margin:10px 0;
+  font-size:4vw;
+  font-weight:bolder;
+  color:#111;
+}
+
 
 .contact-image {
  width:10%;
  background-color:#3b7391;
  border-radius:50%;
 }
+
+@media only screen and (orientation:landscape), (min-width:600px) {
+  #menu-button {
+  width: 4%;
+  padding: 5px;
+  }
+  
+  #head h2{
+  font-size: 5vw;
+  }
+  
+  #sidebar #side-list a{
+  font-size:2vw;
+  }
+  
+  #close-bar {
+  width:10%;
+  }
+  
+  #about-img {
+  width:20%;
+  }
+  
+  #about-text {
+  font-size:6vw;
+  }
+  
+  #about-text button {
+  font-size:3vw;
+  }
+  
+  .All-cards-white {
+  max-width:60%;
+  }
+  
+  .All-cards {
+  max-width:60%;
+  }
+  
+  .All-cards h2, .All-cards-white h2 {
+  font-size:4vw;
+  }
+  
+  .All-cards p, .All-cards-white p{
+  font-size:2vw;
+  }
+  
+  #projects h2{
+  font-size:4vw;
+  }
+  
+  #projects p a {
+  font-size:2vw;
+  }
+  
+  .contact-image {
+  width:6%;
+  }
+  
+  #contact-icons div h3{
+  font-size:3vw;
+  }
+  
+  #contact-icons div{
+  padding:5px 0;
+  }
+  
+ 
+}
+
