@@ -215,6 +215,7 @@ body {
 }
 
 .projects-list {
+ border:1px solid #fff;
  margin:15px 0;
  max-width:80%;
  margin:auto;
