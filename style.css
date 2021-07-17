@@ -215,8 +215,6 @@ body {
 }
 
 .projects-list {
- border:2px solid #fff;
- border-radius:10px;
  margin:20px 0;
  max-width:80%;
  margin:auto;
@@ -231,7 +229,7 @@ body {
 #projects p{
  letter-spacing:1px;
  padding:5px;
- font-size:20px;
+ font-size:15px;
 }
 
 #projects h3 a {
