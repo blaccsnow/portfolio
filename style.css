@@ -262,6 +262,26 @@ body {
  background-color:#3b7391;
  border-radius:50%;
 }
+
+@media only screen and (min-width:500px) {
+ .All-cards h2 {
+ font-size:5vw;
+ }
+ 
+ .All-cards p{
+ font-size:3vw;
+ }
+ 
+ .All-cards-white h2 {
+ font-size:5vw;
+ }
+ 
+ .All-cards-white p{
+ font-size:3vw;
+ }
+ 
+}
+
   
 
 
