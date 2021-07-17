@@ -308,12 +308,13 @@ body {
 }
 
 .projects-list {
- max-width:60%;
+ max-width:80%;
 }
 
 
 #projects p{
  font-size:3vw;
+ text-align:left;
 }
 
 #projects h3 a {
