@@ -279,6 +279,46 @@ body {
  .All-cards-white p{
  font-size:3vw;
  }
+
+ .All-cards h2 {
+ font-size:5vw;
+ }
+ 
+ .All-cards p{
+ font-size:3vw;
+ }
+ 
+ .All-cards-white h2 {
+ font-size:5vw;
+ }
+ 
+ .All-cards-white p{
+ font-size:3vw;
+ }
+
+
+#projects h2{
+ font-size:5vw;
+}
+
+.projects-div {
+ display:grid;
+ grid-template-rows:repeat(2, 2fr);
+ justify-content:center;
+}
+
+.projects-list {
+ max-width:60%;
+}
+
+
+#projects p{
+ font-size:3vw;
+}
+
+#projects h3 a {
+ font-size:4vw;
+}
  
 }
 
