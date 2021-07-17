@@ -301,14 +301,8 @@ body {
  font-size:5vw;
 }
 
-.projects-div {
- display:grid;
- grid-template-columns:repeat(2, 2fr);
- justify-content:center;
-}
-
 .projects-list {
- max-width:80%;
+ max-width:65%;
 }
 
 
