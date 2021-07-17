@@ -241,18 +241,27 @@ body {
 }
 
   
-  .contact-image {
-  width:6%;
-  }
-  
-  #contact-icons div h3{
-  font-size:3vw;
-  }
-  
-  #contact-icons div{
-  padding:5px 0;
-  }
-  
- 
+ #contact-icons div{
+  max-width:100%;
+  text-align:center;
+  background-color:#3b7391;
+  padding:15px 0;
+  margin-top:10px;
 }
+
+#contact-icons div h3{
+  margin:10px 0;
+  font-size:4vw;
+  font-weight:bolder;
+  color:#111;
+}
+
+.contact-image {
+ width:10%;
+ background-color:#3b7391;
+ border-radius:50%;
+}
+  
+
+
 
