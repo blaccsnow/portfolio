@@ -263,7 +263,7 @@ body {
  border-radius:50%;
 }
 
-@media only screen and (min-width:500px) {
+@media only screen and (min-width:500px) and (orientation:landscape) {
  .All-cards h2 {
  font-size:5vw;
  }
