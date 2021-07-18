@@ -222,7 +222,7 @@ body {
 }
 
 #projects h3{
-  text-align:center;
+  text-align:left;
   margin:10px 0;
 }
 
@@ -230,7 +230,7 @@ body {
  letter-spacing:1px;
  padding:5px;
  font-size:15px;
- text-align:center;
+ text-align:left;
 }
 
 #projects h3 a {
