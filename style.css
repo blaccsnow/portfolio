@@ -32,7 +32,7 @@ ol, ul {
 
 body {
  background-color:#111;
- font-family: Monospace;
+ font-family: 'Oswald', sans-serif;
  color: #fff;
 }
 
@@ -63,7 +63,7 @@ body {
 
 #head h2{
   font-size: 9vw;
-  font-family:Verdana,Arial,sans-serif;
+
 }
 
 #blue-line{
@@ -167,7 +167,7 @@ body {
  font-weight:bolder;
  font-size:7vw;
  margin-bottom:40px;
- font-family:cursive;
+
  border-bottom:1px solid #3b7391;
  padding-bottom:10px;
 }
@@ -191,7 +191,7 @@ body {
  font-weight:bolder;
  font-size:7vw;
  margin-bottom:40px;
- font-family:cursive;
+
  border-bottom:1px solid #fff;
  padding-bottom:10px;
 }
