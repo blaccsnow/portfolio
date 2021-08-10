@@ -78,7 +78,6 @@ body {
   background-color: #111;
   overflow: auto;
   transition:.5s;
-  box-shadow:0 0 0 10000px rgba(0,0,0,.50);
 }
 
 #sidebar #side-list{
