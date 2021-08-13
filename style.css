@@ -89,9 +89,9 @@ body {
 #sidebar #side-list a{
   color: #fff;
   text-decoration: none;
-  padding: 20px 0;
+  padding: 20px 5px;
   text-align: center;
-  margin: 20px 0;
+  margin: 15px 0;
   font-size:3vw;
 }
 
