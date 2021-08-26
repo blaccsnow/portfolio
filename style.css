@@ -54,10 +54,11 @@ body {
   margin:auto;
   padding:45px 0 30px;
   height:60px;
+  line-height: 60px;
 }
 
 #menu-button {
-  width: 7%;
+  width: 20px;
   padding: 5px;
 }
 
@@ -84,7 +85,7 @@ body {
 }
 
 #head h2{
-  font-size: 3rem;
+  font-size: 2.5rem;
   color:#3b7391;
   font-weight:bold;
 }
