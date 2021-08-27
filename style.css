@@ -58,7 +58,7 @@ body {
 }
 
 #menu-button {
-  width: 40px;
+  width: 45px;
   padding: 5px;
 }
 
@@ -435,7 +435,7 @@ body {
  
 }
 
-@media only screen and (min-width:650px)  {
+@media only screen and (min-width:700px)  {
  .projects-div {
  display:grid;
  grid-template-columns:repeat(2, 2fr);
