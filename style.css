@@ -251,7 +251,7 @@ body {
 #about-section {
  max-width:85%;
  margin:auto;
- margin-top:20px;
+ margin:20px 0;
 }
 
 #about-text {
@@ -348,7 +348,8 @@ body {
 }
 
 .contact-image {
- width:10%;
+ width:50px;
+ height:50px;
  background-color:#3b7391;
  border-radius:50%;
 }
