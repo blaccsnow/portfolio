@@ -55,11 +55,11 @@ body {
   margin:auto;
   padding:45px 0 30px;
   height:60px;
+  line-height: 60px;
 }
 
 #menu-button {
-  width: 45px;
-  padding: 5px;
+  width: 50px;
 }
 
 #head-nav {
