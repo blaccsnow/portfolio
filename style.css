@@ -436,5 +436,41 @@ body {
  grid-template-columns:repeat(2, 2fr);
  grid-gap:40px;
 }
- 
+
 } 
+
+@media only screen and (min-width:600px)  {
+ .projects-div {
+ display:grid;
+ grid-template-columns:repeat(2, 2fr);
+ grid-gap:40px;
+ }
+}
+
+@media only screen and (max-width:480px) {
+
+body {
+ font-size:10px;
+}
+
+ #menu-button {
+ width: 40px;
+ height:40px;
+ } 
+
+}
+
+
+@media only screen and (min-width: 1100px) {
+ body {
+ font-size:23px;
+ }
+ 
+ #intro {
+ display:grid;
+ grid-template-columns:2fr 2fr;
+ grid-gap:80px;
+ margin-bottom:30px;
+ }
+} 
+ 
