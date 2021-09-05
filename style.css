@@ -196,7 +196,7 @@ body {
 }
 
 #services #all-cards {
- max-width:700px;
+ max-width:600px;
  margin:auto;
  margin-bottom:70px;
 }
@@ -381,7 +381,7 @@ body {
  display:grid;
  grid-template-columns:2fr 2fr;
  grid-gap:40px;
- margin-bottom:30px;
+ margin-bottom:50px;
 }
 
 #intro #chart-img {
@@ -396,6 +396,7 @@ body {
 #all-cards-div {
  display:flex;
  justify-content:space-between;
+ margin-bottom:30px;
 }
 
 #services #all-cards {
@@ -405,7 +406,7 @@ body {
 #pitch {
  display:grid;
  grid-template-columns:2fr 2fr;
- grid-gap:40px;
+ grid-gap:50px;
  margin-top:30px;
 }
 
@@ -432,6 +433,7 @@ body {
  display:grid;
  grid-template-columns:2fr 2fr ;
  grid-gap:40px ;
+ margin-top:30px;
 }
 
 .projects-div {
@@ -450,7 +452,7 @@ body {
  }
 }
 
-@media only screen and (max-width:300px) {
+@media only screen and (max-width:150px) {
 
 body {
  font-size:10px;
