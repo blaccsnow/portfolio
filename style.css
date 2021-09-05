@@ -291,6 +291,7 @@ body {
  margin:0 auto;
  filter:grayscale(30%);
  opacity:90%;
+ margin-bottom:30px;
 }
 
 #projects {
