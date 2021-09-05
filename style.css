@@ -399,7 +399,7 @@ body {
 }
 
 #services #all-cards {
- margin:0 40px;
+ margin:0 30px;
 }
 
 #pitch {
@@ -475,5 +475,10 @@ body {
  grid-gap:80px;
  margin-bottom:30px;
  }
+ 
+ #services #all-cards {
+ margin:0 40px;
+}
+
 } 
  
