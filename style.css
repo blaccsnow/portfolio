@@ -384,6 +384,10 @@ body {
  margin-bottom:70px;
 }
 
+#intro #view {
+ display:none;
+} 
+
 #intro #chart-img {
  height:450px;
  
