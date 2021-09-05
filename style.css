@@ -381,7 +381,7 @@ body {
  display:grid;
  grid-template-columns:2fr 2fr;
  grid-gap:40px;
- margin-bottom:70px;
+ padding-bottom:70px;
 }
 
 #intro #view {
@@ -404,7 +404,7 @@ body {
 #all-cards-div {
  display:flex;
  justify-content:space-between;
- margin-bottom:50px;
+ padding-bottom:50px;
 }
 
 #services #all-cards {
@@ -415,7 +415,7 @@ body {
  display:grid;
  grid-template-columns:2fr 2fr;
  grid-gap:50px;
- margin-top:50px;
+ padding-top:50px;
 }
 
 #pitch-div-two {
@@ -430,7 +430,7 @@ body {
  height:50px;
  line-height:50px;
  padding:20px;
- margin-bottom:50px;
+ padding-bottom:50px;
 }
 
 #ready-section a {
@@ -441,7 +441,7 @@ body {
  display:grid;
  grid-template-columns:2fr 2fr ;
  grid-gap:40px ;
- margin-top:50px;
+ padding-top:50px;
 }
 
 .projects-div {
