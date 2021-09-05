@@ -485,6 +485,11 @@ body {
  grid-gap:80px;
  margin-bottom:30px;
  }
+
+ #intro #chart-img {
+ height:700px;
+}
+
  
  #services #all-cards {
  margin:0 40px;
