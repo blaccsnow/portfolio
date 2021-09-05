@@ -381,7 +381,7 @@ body {
  display:grid;
  grid-template-columns:2fr 2fr;
  grid-gap:40px;
- margin-bottom:50px;
+ margin-bottom:70px;
 }
 
 #intro #chart-img {
@@ -396,7 +396,7 @@ body {
 #all-cards-div {
  display:flex;
  justify-content:space-between;
- margin-bottom:30px;
+ margin-bottom:50px;
 }
 
 #services #all-cards {
@@ -407,7 +407,7 @@ body {
  display:grid;
  grid-template-columns:2fr 2fr;
  grid-gap:50px;
- margin-top:30px;
+ margin-top:50px;
 }
 
 #pitch-div-two {
@@ -433,7 +433,7 @@ body {
  display:grid;
  grid-template-columns:2fr 2fr ;
  grid-gap:40px ;
- margin-top:30px;
+ margin-top:50px;
 }
 
 .projects-div {
