@@ -259,7 +259,7 @@ body {
 #about-text {
  border:3px solid #3b7391;
  border-radius:5px;
- margin:60px 30px;
+ padding:60px 30px;
 }
 
 #about-section h3 {
