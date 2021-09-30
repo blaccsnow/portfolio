@@ -451,25 +451,12 @@ body {
 
 } 
 
-@media only screen and (min-width:660px)  {
+@media only screen and (min-width:640px)  {
  .projects-div {
  display:grid;
  grid-template-columns:repeat(2, 2fr);
  grid-gap:40px;
  }
-}
-
-@media only screen and (max-width:150px) {
-
-body {
- font-size:10px;
-}
-
- #menu-button {
- width: 40px;
- height:40px;
- } 
-
 }
 
 
