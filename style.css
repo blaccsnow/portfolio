@@ -61,6 +61,7 @@ body {
 #menu-button {
   width: 30px;
   height: 30px;
+  padding-top:5px;
 }
 
 #head-nav {
@@ -139,7 +140,7 @@ body {
 
 #intro #chart-img {
  max-width:100%;
- height:auto;
+ height:400px;
  margin-bottom:40px;
 }
 
@@ -150,7 +151,7 @@ body {
 }
 
 #intro p {
- font-size:1.4rem;
+ font-size:1rem;
  margin:25px 0;
  text-align:left;
 }
@@ -163,7 +164,7 @@ body {
  border-radius:5px;
  outline:none;
  color:#fff;
- font-size:1.5rem;
+ font-size:1.1rem;
  margin-top:10px;
 }
 
@@ -175,7 +176,7 @@ body {
 
 #services h2 {
  text-align:center;
- font-size:3rem;
+ font-size:2rem;
  font-weight:bold;
  margin-bottom:30px;
 }
@@ -183,7 +184,7 @@ body {
 #services .card-head {
  text-align:center;
  border-bottom:3px solid #3b7391;
- font-size:2.1rem;
+ font-size:1.5rem;
  padding:10px 0;
 }
 
@@ -462,8 +463,25 @@ body {
  }
 
  #intro h2 {
-  font-size:3rem;
+  font-size:2.5rem;
  }
+
+ #intro p {
+  font-size:1.3rem;
+ }
+
+ #intro #view {
+  font-size:1.4rem;
+ }
+
+ #services h2 {
+  font-size:2.5rem;
+ }
+
+ #services .card-head {
+ font-size:1.8rem;
+ }
+
 }
 
 
