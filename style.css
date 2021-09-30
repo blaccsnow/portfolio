@@ -274,7 +274,7 @@ body {
 }
 
 #about-text button {
- width:200px;
+ width:100%;
  padding:10px;
  border:1px solid #3b7391;
  background-color:#3b7391;
@@ -347,7 +347,7 @@ body {
 
 #contact-icons div h3{
   margin:10px 0;
-  font-size:2rem;
+  font-size:1.5rem;
   font-weight:bolder;
   color:#111;
 }
@@ -513,10 +513,6 @@ body {
 
  #about-section h3 {
   font-size:2rem;
- } 
-
- #about-text button {
-  width:40%;
  } 
 
  #about-section p {
