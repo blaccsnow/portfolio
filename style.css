@@ -274,7 +274,7 @@ body {
 }
 
 #about-text button {
- width:40%;
+ width:55%;
  padding:10px;
  border:1px solid #3b7391;
  background-color:#3b7391;
@@ -286,7 +286,7 @@ body {
 }
 
 #about-img {
- width:70%;
+ width:30%;
  border-radius:50%;
  padding:10px 0;
  display:block;
