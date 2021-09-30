@@ -61,7 +61,7 @@ body {
 #menu-button {
   width: 30px;
   height: 30px;
-  padding-top:5px;
+  padding-top:8px;
 }
 
 #head-nav {
@@ -140,8 +140,8 @@ body {
 
 #intro #chart-img {
  max-width:100%;
- height:400px;
- margin-bottom:40px;
+ height:200px;
+ margin-bottom:50px;
 }
 
 #intro h2 {
@@ -189,7 +189,7 @@ body {
 }
 
 #services p {
- font-size:1.3rem;
+ font-size:1rem;
  padding:25px 0;
  text-align:center;
  max-width:95%;
@@ -215,12 +215,12 @@ body {
 }
 
 #pitch h2 {
- font-size: 3rem;
+ font-size: 2rem;
  font-weight:bold;
 }
 
 #pitch p {
- font-size:1.4rem;
+ font-size:1rem;
  margin:25px 0;
 }
 
@@ -229,7 +229,7 @@ body {
 }
 
 #pitch li {
- font-size:1.4rem;
+ font-size:1rem;
  padding:10px 0;
 }
 
@@ -239,7 +239,7 @@ body {
 }
 
 #ready-section h3 {
- font-size:3rem;
+ font-size:2rem;
  text-align:center;
  margin-bottom:20px;
 }
@@ -247,7 +247,7 @@ body {
 #ready-section a {
  color:#3b7391;
  text-align:center;
- font-size:1.5rem;
+ font-size:1.1rem;
 }
 
 #about-section {
@@ -264,17 +264,17 @@ body {
 }
 
 #about-section h3 {
- font-size:2rem;
+ font-size:1.5rem;
  margin-bottom:20px;
 }
 
 #about-section p {
- font-size:1.1rem;
+ font-size:1.0rem;
  padding:12px 0;
 }
 
 #about-text button {
- width:20%;
+ width:30%;
  padding:10px;
  border:1px solid #3b7391;
  background-color:#3b7391;
@@ -310,13 +310,13 @@ body {
 
 #projects h2{
  text-align:center;
- font-size:2.5rem;
+ font-size:1.5rem;
  margin:20px 0;
  font-weight:bold;
 }
 
 #projects h3{
-  font-size:1.8rem;
+  font-size:1rem;
   color:#3b7391;
   margin:20px 0 40px;
   font-weight:bold;
@@ -347,7 +347,7 @@ body {
 
 #contact-icons div h3{
   margin:10px 0;
-  font-size:1.5rem;
+  font-size:1rem;
   font-weight:bolder;
   color:#111;
 }
@@ -456,10 +456,15 @@ body {
  #menu-button {
   width: 50px;
   height: 50px;
+  padding-top:0;
  }
 
  #head h2{
   font-size: 3rem;
+ }
+
+ #intro #chart-img {
+  height:500px;
  }
 
  #intro h2 {
@@ -480,6 +485,50 @@ body {
 
  #services .card-head {
  font-size:1.8rem;
+ }
+
+ #services p {
+  font-size:1.3rem;
+ }
+
+ #pitch h2 {
+  font-size: 2.5rem;
+ }
+
+ #pitch p {
+  font-size:1.3rem;
+ }
+
+ #pitch li {
+  font-size:1.3rem;
+ }
+
+ #ready-section h3 {
+  font-size:2.5rem;
+}
+
+ #ready-section a {
+  font-size:1.3rem;
+ }
+
+ #about-section h3 {
+  font-size:2rem;
+ } 
+
+#about-section p {
+ font-size:1.3rem;
+ }
+
+ #projects h2{
+  font-size:2.5rem;
+ }
+
+ #projects h3{
+  font-size:1.8rem;
+ }
+
+ #contact-icons div h3{
+  font-size:1.5rem;
  }
 
 }
